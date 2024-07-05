@@ -4,6 +4,7 @@
 
 [![Follow on GitHub](https://img.shields.io/github/followers/shushant786?label=Follow&style=social)](https://github.com/shushant786)
 [![Follow on Instagram](https://img.shields.io/badge/Follow%20on-Instagram-red?style=social&logo=instagram)](https://www.instagram.com/wonder_boy_shushant/)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/shushantsonwani07)
 
 ## <p align="center"> Hello Folks!, I am [**Shushant Sonwani**](https://my-portfolio-drab-eta-24.vercel.app/) :wave: </p>
 
